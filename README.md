@@ -26,5 +26,3 @@ Tenho 18 anos e moro em PE, sou estudante de Engenharia de Computação na Unive
 
 ### 💬 Vamos conversar!
 Estou sempre aberta para colaborar em projetos interessantes ou apenas bater um papo sobre tecnologia. Sinta-se à vontade para entrar em contato!
-
-![Snake animation](https://github.com/Salyzinha/Salyzinha/blob/output/github-contribution-grid-snake.svg)
